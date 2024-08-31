@@ -32,7 +32,7 @@ export default function Home() {
           </div>
         </div>
         <a
-            className="opacity-50 absolute bottom-0 center-0 m-8 drop-shadow-lg text-orange-200 py-1 px-2 border-2 border-orange-800/50 rounded-lg w-fit">
+            className="opacity-50 fixed bottom-0 center-0 m-8 drop-shadow-lg text-orange-200 py-1 px-2 border-2 border-orange-800/50 rounded-lg w-fit">
             Responsáveis: Beatriz Heinrich e Yasmim de Mello
           </a>
       </div>
